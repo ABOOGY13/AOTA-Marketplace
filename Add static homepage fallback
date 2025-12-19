@@ -1,0 +1,77 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>AOTA Marketplace & Raffle</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0b0f0d;
+      color: #e5e7eb;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    .container {
+      text-align: center;
+      max-width: 700px;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    p {
+      font-size: 1.2rem;
+      opacity: 0.9;
+    }
+    .buttons {
+      margin-top: 2rem;
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    a {
+      text-decoration: none;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      font-weight: bold;
+      color: white;
+      background: #1f2933;
+    }
+    a.primary {
+      background: #14532d;
+    }
+    footer {
+      margin-top: 3rem;
+      opacity: 0.6;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>AOTA Marketplace & Raffle</h1>
+    <p>
+      Buy, sell, or raffle items in an open online marketplace.
+      Secure. Fair. Always open.
+    </p>
+
+    <div class="buttons">
+      <a href="#" class="primary">Browse Marketplace</a>
+      <a href="#">View Raffles</a>
+      <a href="#">Sell or Raffle an Item</a>
+    </div>
+
+    <footer>
+      © 2025 AOTA Marketplace
+    </footer>
+  </div>
+</body>
+</html>
+
