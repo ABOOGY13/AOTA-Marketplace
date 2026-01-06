@@ -1,0 +1,3 @@
+/pages
+/public
+/styles
