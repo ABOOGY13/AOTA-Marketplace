@@ -26,4 +26,15 @@ Users can browse products, enter raffles, and securely purchase items through an
 
 ---
 
-## 📦 Project Structure# AOTA-Marketplace
+## 📦 Project Structure# AOTA-Marketplace---
+
+## ▶️ How to Run Locally
+
+```bash
+git clone https://github.com/ABOOGY13/AOTA-Marketplace.git
+cd AOTA-Marketplace
+npm install   # if package.json exists
+npm run dev   # or "vercel dev"
+git add .
+git commit -m "update"
+git push
