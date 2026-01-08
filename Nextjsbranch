@@ -1,0 +1,7 @@
+/pages
+  ├── index.js        (homepage)
+  ├── marketplace.js
+  ├── raffle.js
+  └── admin.js
+/public
+/styles

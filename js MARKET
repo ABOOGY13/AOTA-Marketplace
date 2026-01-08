@@ -1,0 +1,8 @@
+export default function Marketplace() {
+  return (
+    <main style={{ padding: 40 }}>
+      <h1>Marketplace</h1>
+      <p>Items for sale coming soon.</p>
+    </main>
+  );
+}

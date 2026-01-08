@@ -1,0 +1,8 @@
+export default function Raffle() {
+  return (
+    <main style={{ padding: 40 }}>
+      <h1>Raffles</h1>
+      <p>Active raffles will appear here.</p>
+    </main>
+  );
+}
