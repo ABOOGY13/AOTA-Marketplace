@@ -1,3 +1,8 @@
 export default function Home() {
   return <h1>AOTA Marketplace is Running!</h1>;
 }
+export default function Home() {
+  return (
+    <main style={{ padding: 20, fontFamily: 'Arial' }}>
+      <h1>AOTA Marketplace</h1>
+      <h
