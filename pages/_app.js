@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Analytics } from '@vercel/analytics/next';
 import '../styles/globals.css';
 
 export default function App({ Component, pageProps }) {
@@ -12,6 +13,7 @@ export default function App({ Component, pageProps }) {
       <main style={{ padding: 20 }}>
         <Component {...pageProps} />
       </main>
+      <Analytics />
     </div>
   );
 }
