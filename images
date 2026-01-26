@@ -1,0 +1,8 @@
+export const metadata = {
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Your Page Title',
+    description: 'Your page description',
+    images: ['https://example.com/image.jpg'],
+  },
+}
