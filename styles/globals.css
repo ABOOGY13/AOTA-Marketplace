@@ -1,0 +1,3 @@
+body { margin: 0; font-family: Arial, sans-serif; }
+nav a { color: #0070f3; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
