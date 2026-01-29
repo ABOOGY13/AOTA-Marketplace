@@ -1,0 +1,21 @@
+# AOTA Marketplace Roadmap
+
+## 🚀 Q1 Goals
+- Public marketplace UI
+- Create listings
+- Basic dashboard
+
+## 🚧 Q2 Goals
+- Raffle creation + entry limit
+- Stripe integration for payments
+- Image uploads
+
+## 🔐 Q3 Goals
+- Full authentication (Clerk/Auth0/etc.)
+- Admin panel
+- Automated winner selection
+
+## 🌍 Q4 Goals
+- Messaging between buyers + sellers
+- Storefront pages
+- Beta launch to community
